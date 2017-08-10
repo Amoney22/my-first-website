@@ -25,7 +25,7 @@ SECRET_KEY = 'c54mps1%2%@p0_0f4#fgeyn$3+rk#-m*_n=n8!1zx$k^lc1%te'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Cebrail.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'amoney.pythonanywhere.com']
 
 
 # Application definition
